@@ -22,4 +22,4 @@ Bu depo, **SQL Server Management Studio (SSMS)** üzerinde *stored procedure* ya
 3. `CREATE OR ALTER PROCEDURE` scriptlerini sırayla çalıştır.
 4. README’deki örnek çağrıları deneyerek sonucu doğrula.
 
-> Bu repo, **SSMS’te prosedür geliştirmeye hazırlık** amaçlıdır. Kendi alan/kolon adlarına göre küçük uyarlamalar yapman yeterli.
+
